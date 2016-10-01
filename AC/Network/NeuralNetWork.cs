@@ -33,8 +33,7 @@ namespace AC.Network
             layerCount = layers.Count;
 
             //Установить количество весов для нейронов и их значения
-            for (int i = 0; i < layers.Count - 1; ++i)
-            {
+            for (int i = 0; i < layers.Count - 1; ++i) {
                 layers[i].SetNewWeights(layers[i + 1]);
             }
 
