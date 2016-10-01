@@ -1,0 +1,51 @@
+C:\Users\Сергей\Desktop\AC\AC\obj\x86\Debug\AC.Properties.Resources.resources
+C:\Users\Сергей\Desktop\AC\AC\obj\x86\Debug\AC.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\AC\AC\bin\Debug\AC.exe
+C:\Users\Сергей\Desktop\AC\AC\bin\Debug\AC.pdb
+C:\Users\Сергей\Desktop\AC\AC\obj\x86\Debug\AC.exe
+C:\Users\Сергей\Desktop\AC\AC\obj\x86\Debug\AC.pdb
+C:\Users\Сергей\Desktop\AC\AC\obj\x86\Debug\AC.csprojResolveAssemblyReference.cache
+C:\Users\Student.RAM\Desktop\AC\AC\obj\x86\Debug\AC.exe
+C:\Users\Student.RAM\Desktop\AC\AC\obj\x86\Debug\AC.pdb
+C:\Users\Student.RAM\Desktop\AC\AC\bin\Debug\AC.exe
+C:\Users\Student.RAM\Desktop\AC\AC\bin\Debug\AC.pdb
+C:\Users\Student.RAM\Desktop\AC\AC\obj\x86\Debug\AC.Properties.Resources.resources
+C:\Users\Student.RAM\Desktop\AC\AC\obj\x86\Debug\AC.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\AC\AC\obj\x86\Debug\AC.MainForm.resources
+F:\7 семестр\Интеллектуальные ИС\AC\AC\obj\x86\Debug\AC.exe
+F:\7 семестр\Интеллектуальные ИС\AC\AC\obj\x86\Debug\AC.pdb
+F:\7 семестр\Интеллектуальные ИС\AC\AC\bin\Debug\AC.exe
+F:\7 семестр\Интеллектуальные ИС\AC\AC\bin\Debug\AC.pdb
+F:\7 семестр\Интеллектуальные ИС\AC\AC\obj\x86\Debug\AC.csprojResolveAssemblyReference.cache
+F:\7 семестр\Интеллектуальные ИС\AC\AC\obj\x86\Debug\AC.MainForm.resources
+F:\7 семестр\Интеллектуальные ИС\AC\AC\obj\x86\Debug\AC.Properties.Resources.resources
+F:\7 семестр\Интеллектуальные ИС\AC\AC\obj\x86\Debug\AC.csproj.GenerateResource.Cache
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AC\AC\obj\x86\Debug\AC.exe
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AC\AC\obj\x86\Debug\AC.pdb
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AC\AC\bin\Debug\AC.exe
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AC\AC\bin\Debug\AC.pdb
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AC\AC\obj\x86\Debug\AC.MainForm.resources
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AC\AC\obj\x86\Debug\AC.Properties.Resources.resources
+C:\Users\Гость\Desktop\AC\AC\obj\x86\Debug\AC.exe
+C:\Users\Гость\Desktop\AC\AC\obj\x86\Debug\AC.pdb
+C:\Users\Гость\Desktop\AC\AC\bin\Debug\AC.exe
+C:\Users\Гость\Desktop\AC\AC\bin\Debug\AC.pdb
+C:\Users\Гость\Desktop\AC\AC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Гость\Desktop\AC\AC\obj\x86\Debug\AC.MainForm.resources
+C:\Users\Гость\Desktop\AC\AC\obj\x86\Debug\AC.Properties.Resources.resources
+C:\Users\Гость\Desktop\AC\AC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Гость\Desktop\AC\AC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AC\AC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AC\AC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AC\AC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student.RAM\Desktop\AC\AC\obj\x86\Debug\AC.MainForm.resources
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\obj\x86\Debug\AC.exe
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\obj\x86\Debug\AC.pdb
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\obj\x86\Debug\AC.MainForm.resources
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\obj\x86\Debug\AC.Form2.resources
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\obj\x86\Debug\AC.Properties.Resources.resources
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\bin\Debug\AC.exe
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\bin\Debug\AC.pdb

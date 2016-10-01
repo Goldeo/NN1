@@ -1,0 +1,17 @@
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\obj\x86\Debug\AC.exe
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\obj\x86\Debug\AC.pdb
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\obj\x86\Debug\AC.MainForm.resources
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\obj\x86\Debug\AC.Form2.resources
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\obj\x86\Debug\AC.Properties.Resources.resources
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\student.RAM\Desktop\AD\AC\obj\x86\Debug\AC.exe
+C:\Users\student.RAM\Desktop\AD\AC\obj\x86\Debug\AC.MainForm.resources
+C:\Users\student.RAM\Desktop\AD\AC\obj\x86\Debug\AC.Form2.resources
+C:\Users\student.RAM\Desktop\AD\AC\obj\x86\Debug\AC.Properties.Resources.resources
+C:\Users\student.RAM\Desktop\AD\AC\obj\x86\Debug\AD.csproj.GenerateResource.Cache
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\bin\Debug\AC.exe
+D:\Раб стол тип\BACKUP\23.07.2015\7 семестр\Интеллектуальные ИС\ИИ\AD\AC\bin\Debug\AC.pdb
+C:\Users\Sergey\Desktop\AD\AC\obj\x86\Debug\AC.exe
+C:\Users\Sergey\Desktop\AD\AC\obj\x86\Debug\AC.pdb
